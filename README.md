@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 # Henrique Holtz :man_technologist:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-holtz/)](https://www.linkedin.com/in/jrmarcelo/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-holtz/)](https://www.linkedin.com/in/henrique-holtz/)
 
 ### Hellooo! 👋 Welcome to my profile
