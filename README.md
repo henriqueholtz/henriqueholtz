@@ -17,3 +17,29 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=henriqueholtz&show_icons=true&count_private=true&theme=midnight-purple" alt="Henrique Holtz's Stats" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueholtz&layout=compact&theme=midnight-purple" alt="Henrique Holtz's most used languages" />
+
+  
+  ## :construction: :construction_worker: Construction Below
+  
+  ## Front-end
+★★☆☆☆  ReactJs <br>  
+★☆☆☆☆  VanillaJs <br>  
+★☆☆☆☆  TypeScript <br>  
+★☆☆☆☆  CSS/SASS <br>  
+  
+  ## Back-end
+★★☆☆☆  C# <br>  
+★★☆☆☆  .Net <br>  
+  
+  ## DataBase
+★★☆☆☆  SQLServer <br>  
+  
+  ## Others
+★★★★☆  Git <br>  
+★★★★☆  HTTP/HTTPS <br>  
+★☆☆☆☆  Docker <br>  
+★☆☆☆☆  CI/CD <br>  
+★☆☆☆☆  JWT <br>  
+★★★★☆  WSL <br>  
+★☆☆☆☆  Kafka <br>  
+  
