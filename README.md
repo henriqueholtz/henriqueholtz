@@ -1,7 +1,12 @@
-# Welcome!
-##  This is my profile, my name is Henrique Holtz :man_technologist:
+# Welcome! I'm Henrique Holtz.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-holtz/)](https://www.linkedin.com/in/henrique-holtz/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-holtz/)](https://www.linkedin.com/in/henrique-holtz/)
+  
+  ##
+ 
 
-<h1> 🎩 I'm study Analysis and systems development  😍 </h1>
-<h4> ➡️ Access my LinkedIn too. </h4>
+## 📈 My Github Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=henriqueholtz&show_icons=true&count_private=true&theme=midnight-purple" alt="Henrique Holtz's Stats" />
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueholtz&layout=compact&theme=midnight-purple" alt="Thiago Spart's most used languages" />
