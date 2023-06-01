@@ -1,4 +1,4 @@
-# Welcome! I'm Henrique Holtz. <span style="float: right;">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-holtz/)](https://www.linkedin.com/in/henrique-holtz/)</span>
+# Welcome! I'm Henrique Holtz. <span style="float: right;">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-holtz/)](https://www.linkedin.com/in/henrique-holtz/)</span> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -29,7 +29,7 @@
 </div>
 </br>
 
-I'm a software developer who is always learning. Right now I'm working at a company called TrayCorp (Wake Commerce) since 2020 as a FullCycle/FullStack developer.
+I'm a software developer who is always learning. Right now I'm working at a company called TrayCorp (Wake Commerce) since 2020 as a FullCycle/FullStack developer. See [my StackOverflow profile](https://stackoverflow.com/users/14477325/henrique-holtz)
 
 </br>
 <details>
