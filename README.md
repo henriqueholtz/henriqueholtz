@@ -1,7 +1,5 @@
 # Welcome! I'm Henrique Holtz. <span style="float: right;">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-holtz/)](https://www.linkedin.com/in/henrique-holtz/)</span>
 
-I'm a software developer who is always learning. Right now I'm working at a company called TrayCorp (Wake Commerce) since 2020 as a FullCycle/FullStack developer.
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Henrique-dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dotnetcore/dotnetcore-original.svg">
@@ -29,32 +27,24 @@ I'm a software developer who is always learning. Right now I'm working at a comp
   <img align="center" alt="Henrique-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Henrique-Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/yarn/yarn-original-wordmark.svg">
 </div>
+</br>
 
+I'm a software developer who is always learning. Right now I'm working at a company called TrayCorp (Wake Commerce) since 2020 as a FullCycle/FullStack developer.
+
+</br>
 <details>
   <summary>Front-end experience</summary>
-  - ReactJs;
-  - NextJs;
-  - Typescript;
-  - HTML;
-  - JavaScript;
-  - CSS;
-  - Sass;
+</br>
+  ReactJs | NextJs | Typescript | HTML | JavaScript | CSS | Sass
+</br>
   
 </details>
 
 <details>
   <summary>Back-end experience & Tools (main)</summary>
-  - C# & .Net (Framework, Core and 5+);
-  - Microservices environment;
-  - SQL server;
-  - RabbitMq;
-  - Kafka;
-  - AWS;
-  - Docker;
-  - Graylog
-  - NewRelic;
-  - Redis;
-  - HTTP(S), GraphQL;
+</br>
+   C# & .Net (Framework, Core and 5+) | Microservices environment | SQL server | RabbitMq | Kafka | AWS | Docker | Graylog | NewRelic | Redis | HTTP(S), GraphQL;
+</br>
   
 </details>
 
