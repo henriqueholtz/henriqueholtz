@@ -31,6 +31,9 @@
 
 I'm a software developer who is always learning. Right now I'm working at a company called TrayCorp (Wake Commerce) since 2020 as a FullCycle/FullStack developer. See [my StackOverflow profile](https://stackoverflow.com/users/14477325/henrique-holtz)
 
+- I have a degree in "analysis and systems development"
+- I'm AWS Cloud Practitioner ([See my certificate](https://www.credly.com/badges/f8bc56c7-8a66-4e47-ac35-d40ac3950d6a/linked_in?t=ryg816))
+
 </br>
 <details>
   <summary>Front-end experience</summary>
